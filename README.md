@@ -26,10 +26,12 @@ It is basically Website of movie searching using HTML, CSS, vanilla JavaScript a
 | `api_key` | `string` | **be7ce634**. API key |
 
 - Movie Search
-// Search API Link: http://www.omdbapi.com/?s=${movie name}&apikey=be7ce634
+```http
+  Search API Link: http://www.omdbapi.com/?s=${movie name}&apikey=be7ce634
+```
 
 - Get Movie by id
-// Details API Link: http://www.omdbapi.com/?i=${movie id}&apikey=be7ce634
-
-
+```http
+  Details API Link: http://www.omdbapi.com/?i=${movie id}&apikey=be7ce634ET api/keys
+```
 
