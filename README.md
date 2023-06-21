@@ -4,7 +4,8 @@ It is basically Website of movie searching using HTML, CSS, vanilla JavaScript a
 
 
 ## Authors
-@*Vipul Sonawane*
+*[Vipul Sonawane](https://www.github.com/octokatherine)*
+
 
 
 ## Details
