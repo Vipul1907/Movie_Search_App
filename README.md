@@ -34,4 +34,7 @@ It is basically Website of movie searching using HTML, CSS, vanilla JavaScript a
 ```http
   Details API Link: http://www.omdbapi.com/?i=${movie id}&apikey=be7ce634ET api/keys
 ```
-
+## 🔗GitHub Hosted Link:
+```http
+ https://vipul1907.github.io/Movie_Search_App.github.io/
+```
